@@ -1,7 +1,3 @@
-# Personal open source developments
+# Flow diagram of CONTROL-M mainframe job's networks 
 
-Mainframe
-Applications for interpretation of OS system data
-
-MSL Curiosty
-Python program for get and save raw image's from NASA / JPL MSL Curiosty
+This python program take an unload from CONTROL-M planner and generate a graph with individual jobs
